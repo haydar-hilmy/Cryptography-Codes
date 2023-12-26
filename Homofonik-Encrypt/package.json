@@ -1,0 +1,20 @@
+{
+  "name": "homofonik-encrypt",
+  "version": "1.0.0",
+  "description": "Created at 7-10-2023/10:57",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "keywords": [
+    "Homofonik",
+    "Encrypt"
+  ],
+  "author": "Haydar Hilmy",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {}
+}
